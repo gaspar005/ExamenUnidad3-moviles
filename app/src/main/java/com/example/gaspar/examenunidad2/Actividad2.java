@@ -163,6 +163,7 @@ public class Actividad2 extends AppCompatActivity {
                     {
                         suma+=x+1;
                         Toast.makeText(getApplicationContext(),Integer.toString(suma),Toast.LENGTH_SHORT).show();
+                        //algo
                     }
                 }
                 /*if(distancia<=30)
