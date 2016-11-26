@@ -17,6 +17,12 @@
         android:text="Hello World!" />
 
     <Button
+        android:text="Actividad 1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAct1" />
+
+    <Button
         android:text="Actividad 2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
